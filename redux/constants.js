@@ -1,0 +1,5 @@
+export const ADD_NOTE = "add_note"
+export const DELETE_NOTE = "delete_note"
+export const ADD_TO_FAV = "add_to_fav"
+export const REMOVE_FROM_FAV = "remove_from_fav"
+export const SEARCHED_NOTES = "searched_notes"
